@@ -1,4 +1,7 @@
-# Title (replace with your title)
+
+<div align = "center" id="top">
+<img width = "500px" height="200px" src="assets/welcome.svg"/>
+</div>
 
 Introductory paragraph (replace this with your text)
 
