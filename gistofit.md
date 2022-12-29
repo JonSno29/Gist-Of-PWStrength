@@ -1,15 +1,15 @@
-
+# 
 <div align = "center" id="top">
 <img width = "500px" height="200px" src="assets/welcome.svg"/>
 </div>
 
 Introductory paragraph (replace this with your text)
 
-## Summary
+## 🎗 SUMMARY:
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
-## Table of Contents
+## 🎗 TABLE OF CONTENTS:
 
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
@@ -22,31 +22,37 @@ Briefly summarize the regex you will be describing and what you will explain. In
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [ABOUT THE AUTHOR](#ABOUT-THE-AUTHOR)
 
-## Regex Components
+## 🎗 REGEX COMPONENTS:
 
-### Anchors
+### 🎗 Anchors:
 
-### Quantifiers
+### 🎗 Quantifiers:
 
-### OR Operator
+### 🎗 OR Operator:
 
-### Character Classes
+### 🎗 Character Classes:
 
-### Flags
+### 🎗 Flags
 
-### Grouping and Capturing
+### 🎗 Grouping and Capturing:
 
-### Bracket Expressions
+### 🎗 Bracket Expressions:
 
-### Greedy and Lazy Match
+### 🎗 Greedy and Lazy Match:
 
-### Boundaries
+### 🎗 Boundaries:
 
-### Back-references
+### 🎗 Back-references:
 
-### Look-ahead and Look-behind
+### 🎗 Look-ahead and Look-behind:
 
-## Author
+## 🎗 ABOUT THE AUTHOR:
+
+<a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
+
+📫 The best way to reach me over is Linkedin. You can also send me a mail to Snoverjon@gmail.com.
+
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
