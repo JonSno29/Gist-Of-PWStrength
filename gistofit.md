@@ -110,15 +110,15 @@ lowercase letter, 1 uppercase letter, 1 number, 1 special character and be at le
 
 ### 🎗 Look-ahead and Look-behind:
 
-- There are five positive look-aheads. `?=` Look-aheads allow you to match groups before or after without
+- There are five positive look-aheads. `?=` Look-aheads allow you to match groups before or 
 
-including in your result.
+after without including in your result.
 
 ## 🎗 ABOUT THE AUTHOR:
 
 <a href="https://github.com/jonsno29" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
-📫 The best way to reach me over is Linkedin. You can also send me a mail to Snoverjon@gmail.com.
+📫 The best way to reach me over is Linkedin. You can also send me an e-mail to Snoverjon@gmail.com.
 
 - My name is Jon Snover and I am a University Of Minnesota, Full-Stack Coding Bootcamp Student.
 
