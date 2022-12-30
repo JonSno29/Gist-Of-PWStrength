@@ -120,5 +120,10 @@ including in your result.
 
 📫 The best way to reach me over is Linkedin. You can also send me a mail to Snoverjon@gmail.com.
 
-
 - My name is Jon Snover and I am a University Of Minnesota, Full-Stack Coding Bootcamp Student.
+
+- <https://gist.github.com/JonSno29>
+
+- <https://github.com/JonSno29/Gist-Of-PWStrength/blob/main/gistofit.md>
+
+
