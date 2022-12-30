@@ -54,7 +54,7 @@ lowercase letter, 1 uppercase letter, 1 number, 1 special character and be at le
 
 ### 🎗 Quantifiers:
 
-- The {8,} which sets the length of the password minimum of 8 characters.
+- The `{8,}` which sets the length of the password minimum of 8 characters.
 
 - There are five `.*` which is 0 or more, it is also called 'the wildcard' because it matches everything to preceding text.
 
@@ -62,15 +62,15 @@ lowercase letter, 1 uppercase letter, 1 number, 1 special character and be at le
 
 ### 🎗 OR Operator:
 
-- The OR operator acts as a boolean using the | symbol by matching the expression before or after the | symbol.
+- The OR operator acts as a boolean using the `|` symbol by matching the expression before or after the `|` symbol.
 
 ### 🎗 Character Classes:
 
-- The [A-Z] expression matches a character in the range from ‘A’ to ‘Z’ which is case sensitive.
+- The `[A-Z]` expression matches a character in the range from ‘A’ to ‘Z’ which is case sensitive.
 
-- The expression [a-z] will match from range of ‘a’ to ‘z’, case sensitive.
+- The expression `[a-z]` will match from range of ‘a’ to ‘z’, case sensitive.
 
-- [0-9]
+- `[0-9]`
 
 ### 🎗 Flags:
 
@@ -78,11 +78,11 @@ lowercase letter, 1 uppercase letter, 1 number, 1 special character and be at le
 
 ### 🎗 Grouping and Capturing:
 
-- Groups are represented by '()', Groups can have multiple expressions to create a capture group. `(?=(.*[0-9]))`
+- Groups are represented by `()`, Groups can have multiple expressions to create a capture group. `(?=(.*[0-9]))`
 
 ### 🎗 Bracket Expressions:
 
-- Bracket expressions are a list of characters enclosed by '[]' and will match any single character in that list.
+- Bracket expressions are a list of characters enclosed by `[]` and will match any single character in that list.
 
 - Bracket expressions are used in this example in combination with character classes.
 
@@ -92,13 +92,11 @@ lowercase letter, 1 uppercase letter, 1 number, 1 special character and be at le
 
 ### 🎗 Greedy and Lazy Match:
 
-- The ? makes the preceding quantifier lazy, causing it to match as few characters as possible.
+- The `?` makes the preceding quantifier lazy, causing it to match as few characters as possible.
 
-- The .* is used to match anything.
+- The `.*` is used to match anything.
 
 - `.` Is used to match any character.
-
-
 
 ### 🎗 Boundaries:
 
